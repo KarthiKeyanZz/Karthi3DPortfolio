@@ -72,7 +72,7 @@ const AboutDetails = () => {
         </ItemLayout>
 
         <ItemLayout className={"col-span-full"}>
-          <h1 className="text-md sm:text-xs md:text-lg lg:text-4xl text-left w-full capitalize" > Skills and Tools i Use </h1>
+          <h2 className="text-md sm:text-xs md:text-lg lg:text-3xl text-left w-full capitalize" > Skills and Tools i Use </h2>
           <br/>
           <img
               className="w-full h-auto"
